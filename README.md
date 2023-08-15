@@ -1,0 +1,3 @@
+# bdhr
+
+simple gali machine
