@@ -1,7 +1,7 @@
 const btn = document.querySelector('#btn');
 
 const say_hello = () =>{
-    alert("Hello mother fuckerrrr!!!")
+    alert("Marlas mugi")
 }
 
 
